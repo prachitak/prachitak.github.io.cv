@@ -17,3 +17,7 @@ h1{
 h3{
   color: #0d7377;
 }
+
+.circular{
+  border-radius: 100%
+}
